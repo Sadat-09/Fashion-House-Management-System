@@ -1,0 +1,39 @@
+F:\c#\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+F:\c#\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+F:\c#\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+F:\c#\FinalProject\FinalProject\bin\Debug\Guna.UI2.dll
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.Admin.resources
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.AdminUC.UC_Dashboard.resources
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.AdminUC.UC_AddUser.resources
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.UC_SearchUser.resources
+F:\c#\FinalProject\FinalProject\obj\Debug\FinalProject.AdminUC.UC_Profile.resources
+F:\back up 3\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+F:\back up 3\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+F:\back up 3\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.Admin.resources
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.AdminUC.UC_AddUser.resources
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.AdminUC.UC_Dashboard.resources
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.AdminUC.UC_Profile.resources
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.UC_SearchUser.resources
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.Salesman.resources
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.SalesmanUC.UC_S_AddClothes.resources
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.SalesmanUC.UC_S_ViewClothes.resources
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.SalesmanUC.UC_S_ModifyCloth.resources
+F:\back up 3\FinalProject\FinalProject\obj\Debug\FinalProject.SalesmanUC.UC_S_SellCloth.resources
